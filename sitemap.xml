@@ -2,9 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mariosouto.com/hello-world/</loc>
+    <loc>https://mariosouto.com/about/index.html</loc>
     
-    <lastmod>2017-12-30T13:38:04.553Z</lastmod>
+    <lastmod>2017-12-30T13:17:06.891Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mariosouto.com/inputs-materializados-com-css/</loc>
+    
+    <lastmod>2017-12-30T12:54:07.429Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mariosouto.com/alura-live-pre-processadores/</loc>
+    
+    <lastmod>2017-12-30T12:54:00.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mariosouto.com/criando-componentes-css-com-o-padrao-bem/</loc>
+    
+    <lastmod>2017-12-30T12:49:51.762Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mariosouto.com/hipsters-72-por-tras-do-wordpress/</loc>
+    
+    <lastmod>2017-12-30T12:48:09.389Z</lastmod>
     
   </url>
   

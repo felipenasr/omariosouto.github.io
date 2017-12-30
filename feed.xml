@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="https://mariosouto.com/"/>
-  <updated>2017-12-30T13:38:04.553Z</updated>
+  <updated>2017-12-30T12:48:09.389Z</updated>
   <id>https://mariosouto.com/</id>
   
   <author>
@@ -17,23 +17,104 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://mariosouto.com/hello-world/"/>
-    <id>https://mariosouto.com/hello-world/</id>
-    <published>2017-12-30T13:38:04.552Z</published>
-    <updated>2017-12-30T13:38:04.553Z</updated>
+    <title>Hipsters #72 – Por trás do WordPress</title>
+    <link href="https://mariosouto.com/hipsters-72-por-tras-do-wordpress/"/>
+    <id>https://mariosouto.com/hipsters-72-por-tras-do-wordpress/</id>
+    <published>2017-11-28T02:00:00.000Z</published>
+    <updated>2017-12-30T12:48:09.389Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Participação no <a href="https://hipsters.tech" target="_blank" rel="noopener">hipsters.tech</a>, contando parte da minha experiência com WordPress, boas práticas, entre pontos bacanas de como trabalhar com a ferramenta. Segue o link para quem quiser ver o que rolou: <a href="https://hipsters.tech/hipsters-72-por-tras-do-wordpress/" target="_blank" rel="noopener">https://hipsters.tech/hipsters-72-por-tras-do-wordpress/</a></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
+      Participação no hipsters.tech, contando parte da minha experiência com WordPress, boas práticas, entre pontos bacanas de como trabalhar com a ferramenta.
     
     </summary>
     
+      <category term="Tips" scheme="https://mariosouto.com/categories/Tips/"/>
+    
+    
+      <category term="podcast" scheme="https://mariosouto.com/tags/podcast/"/>
+    
+      <category term="wordpress" scheme="https://mariosouto.com/tags/wordpress/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Criando componentes CSS com o padrão BEM</title>
+    <link href="https://mariosouto.com/criando-componentes-css-com-o-padrao-bem/"/>
+    <id>https://mariosouto.com/criando-componentes-css-com-o-padrao-bem/</id>
+    <published>2017-08-08T03:00:00.000Z</published>
+    <updated>2017-12-30T12:49:51.762Z</updated>
+    
+    <content type="html"><![CDATA[<p>Muita gente me pergunta como escrever CSS de forma organizada. Nesse post fiz um passo a passo para usar uma das formas mais conhecidas. Segue o link para quem quiser ver o que rolou: <a href="http://blog.alura.com.br/criando-componentes-css-com-padrao-bem/" target="_blank" rel="noopener">http://blog.alura.com.br/criando-componentes-css-com-padrao-bem/</a></p>]]></content>
+    
+    <summary type="html">
+    
+      Muita gente me pergunta como escrever CSS de forma organizada. Nesse post fiz um passo a passo para usar uma das formas mais conhecidas.
+    
+    </summary>
+    
+      <category term="Css" scheme="https://mariosouto.com/categories/Css/"/>
+    
+    
+      <category term="front end" scheme="https://mariosouto.com/tags/front-end/"/>
+    
+      <category term="css" scheme="https://mariosouto.com/tags/css/"/>
+    
+      <category term="bem" scheme="https://mariosouto.com/tags/bem/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pré-processadores - Alura Live #36</title>
+    <link href="https://mariosouto.com/alura-live-pre-processadores/"/>
+    <id>https://mariosouto.com/alura-live-pre-processadores/</id>
+    <published>2017-07-12T03:00:00.000Z</published>
+    <updated>2017-12-30T12:54:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Muita gente me pergunta como escrever CSS de forma organizada. Nesse post fiz um passo a passo para usar uma das formas mais conhecidas. Segue o link para quem quiser ver o que rolou: <a href="https://www.youtube.com/watch?v=ZkYz_NNBVLA" target="_blank" rel="noopener">https://www.youtube.com/watch?v=ZkYz_NNBVLA</a></p>]]></content>
+    
+    <summary type="html">
+    
+      Um bate-papo sobre o mundo dos pré-processadores.
+    
+    </summary>
+    
+      <category term="Css" scheme="https://mariosouto.com/categories/Css/"/>
+    
+    
+      <category term="front end" scheme="https://mariosouto.com/tags/front-end/"/>
+    
+      <category term="pre-processadores" scheme="https://mariosouto.com/tags/pre-processadores/"/>
+    
+      <category term="css" scheme="https://mariosouto.com/tags/css/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Inputs Materializados com CSS</title>
+    <link href="https://mariosouto.com/inputs-materializados-com-css/"/>
+    <id>https://mariosouto.com/inputs-materializados-com-css/</id>
+    <published>2016-12-22T02:00:00.000Z</published>
+    <updated>2017-12-30T12:54:07.429Z</updated>
+    
+    <content type="html"><![CDATA[<p>Depois de muita luta e vencer a faculdade, cá estou eu escrevendo meu primeiro post que dedico ao <a href="https://twitter.com/afonsopacifer/" target="_blank" rel="noopener">@afonsopacifer</a> (pela insistência em me motivar a escrever). Bom eu sempre usei Android e acho muito mágico o que a galera faz nos aplicativos e como algumas animações violam o que eu considero como física do front-end.</p><a id="more"></a> <p>Boa parte dessas animações na web são facilmente feitas com JS…</p><blockquote><p>Ahhh, mas ai é fácil quero ver fazer diferente, ser pioneiro, inovador, senhor descolado.</p></blockquote><p>Cof cof, continuando… Sim é relativamente fácil fazer essas animações com JS e justamente por buscar uma outra alternativa eu resolvi fazer esse post. Então o desafio foi lançado: <strong>Como fazer um Material Input somente com CSS?</strong></p><h2 id="Primeiramente-fora-temer"><a href="#Primeiramente-fora-temer" class="headerlink" title="Primeiramente (fora temer)"></a>Primeiramente <del>(fora temer)</del></h2><p>Os ingredientes necessários para essa receita serão: HTML5 Data Form Validations, Alguns seletores e lógica de CSS &lt;3, amor e pensar um pouco fora do padrão.</p><p>Vale ressaltar que <strong>isso é um experimento</strong>, e que experimentos são uma fonte importante de conhecimento para lidar com problemas do dia-a-dia.</p><h3 id="Data-Form-Validations"><a href="#Data-Form-Validations" class="headerlink" title="Data Form Validations"></a>Data Form Validations</h3><p>Faz algum tempo que muitas pessoas utilizam o atributo <strong>required</strong> do HTML5 para fazer algumas validações simples em formulários como no exemplo abaixo:</p><p></p><p data-height="265" data-theme-id="dark" data-slug-hash="bBzZXj" data-default-tab="html,result" data-user="omariosouto" data-embed-version="2" data-pen-title="HTML5 Data Form Validations" class="codepen">See the Pen <a href="http://codepen.io/omariosouto/pen/bBzZXj/" target="_blank" rel="noopener">HTML5 Data Form Validations</a> by Mario Souto (<a href="http://codepen.io/omariosouto" target="_blank" rel="noopener">@omariosouto</a>) on <a href="http://codepen.io" target="_blank" rel="noopener">CodePen</a>.</p><p></p><script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script><p>As validações com required são bem bacanas, pois elas pegam o [type] do input e tiram por base dele se o campo foi preenchido corretamente ou não, validando e-mails, texts e etc…</p><p>Porém, uma coisa que pouca gente sabe é que é possível juntamente do required utilizar o atributo <strong>pattern</strong> que possibilita fazer validações complexas baseadas em expressões regulares sem o uso de JavaScript.</p><p><img src="https://mariosouto.com/assets/img/im-god.gif" alt="WHERE IS YOUR GOD NOW?"></p><blockquote><p>WHERE IS YOUR GOD NOW?</p></blockquote><p>Calma que não para por ai, além de ser possível fazer validações no HTML é possível capturar o estado delas utilizando CSS com as Pseudo Classes <strong>valid</strong> e <strong>invalid</strong>, ou seja: <em>É possível estilizar um elemento, se baseando em tratamento de dados somente utilizando linguagens de marcação e estilo!</em></p><h2 id="Segundamente-Maos-a-obra"><a href="#Segundamente-Maos-a-obra" class="headerlink" title="Segundamente: Mãos a obra!"></a>Segundamente: Mãos a obra!</h2><p>Dessa vez nosso objetivo não é o trapézio descendente e sim esse cara aqui:</p><p><img src="https://mariosouto.com/assets/img/input-material-design.gif" alt="Exemplo de input do Material Design"></p><p>Indo pelo passo a passo, vamos começar pela estrutura HTML que será bem simples:</p><script src="https://gist.github.com/omariosouto/8fc58a5149603e00d02288ebdeb2d509.js"></script><p>1 - Uma tag section e uma form<br>2 - Um input-container para agrupar o conjunto da label com o input<br>3 - E por fim, um input com um id “name” e um label logo <em>abaixo</em>, com o <code>for=</code> referenciando para o id do input (a ordem nesse caso é bem importante e vocês já irão entender).</p><p>Feito isso, o próximo passo é colocar nossa regex no atributo pattern deixando ele assim: <code>pattern=&quot;.+&quot;</code> (essa condição retorna válido caso qualquer caracter seja inserido dentro do input).</p><p>Agora vem a parte do amor com CSS &lt;3</p><h3 id="Base"><a href="#Base" class="headerlink" title="Base"></a>Base</h3><script src="https://gist.github.com/omariosouto/184bcff2e14c6e4a45e1b6e0cf7c7a65.js"></script><p>A estrutura é bem simples, basicamente aplicamos um estilo no input para ele se parecer com o do Material Design e posicionamentos de forma absoluta o label a esquerda do input-container e centralizado em relação ao input.</p><h3 id="Interacao"><a href="#Interacao" class="headerlink" title="Interação"></a>Interação</h3><script src="https://gist.github.com/omariosouto/302b568ba17d5a62c954ee997d70b98b.js"></script><p>Aqui é onde acontece a mágica, nós validamos quando o input for valido no HTML e pelo CSS verificamos esse estado, adicionando um efeito ao label que é o elemento seguinte ao input.</p><p>E para finalizar com um toque especial vamos dar um tapa no visual:</p><script src="https://gist.github.com/omariosouto/e3013895740025ea91715bbe643138fb.js"></script><p>E finalmente aqui está o resultado do nosso experimento!</p><p></p><p data-height="357" data-theme-id="dark" data-slug-hash="LbENBr" data-default-tab="html,result" data-user="omariosouto" data-embed-version="2" data-pen-title="Material Design Input - CSS Pure" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/omariosouto/pen/LbENBr/" target="_blank" rel="noopener">Material Design Input - CSS Pure</a> by Mario Souto (<a href="http://codepen.io/omariosouto" target="_blank" rel="noopener">@omariosouto</a>) on <a href="http://codepen.io" target="_blank" rel="noopener">CodePen</a>.</p><p></p><script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script><p>Bom, espero que tenham gostado do post em breve trarei mais conteúdos, quaisquer dúvidas deixem nos comentários ou me chamem em alguma rede social!</p><ul><li><a href="https://www.facebook.com/omariosouto" target="_blank" rel="noopener">Facebook</a></li></ul><h2 id="Referencias"><a href="#Referencias" class="headerlink" title="Referências:"></a>Referências:</h2><ul><li><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Data_form_validation" target="_blank" rel="noopener">https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Data_form_validation</a></li><li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/:invalid" target="_blank" rel="noopener">https://developer.mozilla.org/pt-BR/docs/Web/CSS/:invalid</a></li><li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/:valid" target="_blank" rel="noopener">https://developer.mozilla.org/pt-BR/docs/Web/CSS/:valid</a></li><li><a href="http://materializecss.com/forms.html" target="_blank" rel="noopener">http://materializecss.com/forms.html</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      É possível validar dados com HTML e CSS?
+    
+    </summary>
+    
+      <category term="css" scheme="https://mariosouto.com/categories/css/"/>
+    
+    
+      <category term="css" scheme="https://mariosouto.com/tags/css/"/>
+    
+      <category term="js" scheme="https://mariosouto.com/tags/js/"/>
+    
+      <category term="front" scheme="https://mariosouto.com/tags/front/"/>
     
   </entry>
   
